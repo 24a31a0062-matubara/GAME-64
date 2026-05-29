@@ -3,7 +3,7 @@ using UnityEngine;
 public class DeathZoneFollow : MonoBehaviour
 {
     public Transform cameraTransform;
-    public float offsetY = 2f; // ƒJƒƒ‰‚Ì‰º‚É‰½ƒ}ƒX•ª‰º‚°‚é‚©
+    public float offsetY = 2f; 
 
     void LateUpdate()
     {

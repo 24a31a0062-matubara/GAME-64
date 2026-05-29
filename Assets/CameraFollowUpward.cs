@@ -23,7 +23,6 @@ public class CameraFollowUpward : MonoBehaviour
         float targetY = target.position.y + yOffset - 1f; 
 
 
-        // プレイヤーが上に進んだらカメラも追従
         if (targetY > highestY)
         {
             highestY = targetY;

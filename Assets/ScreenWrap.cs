@@ -6,7 +6,7 @@ public class HorizontalWrap : MonoBehaviour
 
     void Start()
     {
-        // カメラの横幅を計算（縦サイズ × アスペクト比）
+
         screenHalfWidth = Camera.main.orthographicSize * Camera.main.aspect;
     }
 
