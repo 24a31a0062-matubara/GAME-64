@@ -1,0 +1,80 @@
+# =========================================
+# Unity
+# =========================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity Cache
+UserSettings/
+
+# Asset Store tools
+Assets/AssetStoreTools*
+
+# =========================================
+# Visual Studio / Rider / VSCode
+# =========================================
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Rider
+.idea/
+
+# VSCode
+.vscode/
+
+# =========================================
+# OSごとの不要ファイル
+# =========================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# =========================================
+# ビルド成果物
+# =========================================
+
+*.apk
+*.aab
+*.app
+*.exe
+*.ipa
+
+# =========================================
+# Unity Collaborate / Plastic SCM
+# =========================================
+
+.collab/
+PlasticSCM/
+
+# =========================================
+# その他
+# =========================================
+
+# Logs
+*.log
+
+# Crash reports
+sysinfo.txt
+
+# Packed Addressables
+*/addressables_content_state.bin
